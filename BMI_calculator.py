@@ -16,4 +16,4 @@ if BMI > 0:
     else:
         print("you are severely overweight")
 else:
-    print("enter valid details")
+    print("enter valid details, try again")
